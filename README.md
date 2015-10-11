@@ -1,2 +1,3 @@
 # GitRep
-Git Rep test
+
+Githum is repositoy shing project
